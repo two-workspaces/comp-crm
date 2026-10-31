@@ -6,5 +6,6 @@
   "image": "https://raw.githubusercontent.com/trycompai/crm/v1.16.0/apps/app/public/web-app-manifest-512x512.png",
   "card_desc": "Comp AI CRM 1.16: contacts, companies and deals filled in from your Gmail or Outlook, with a research agent that keeps a dossier on every account. App, API, agent, cron and Postgres.",
   "deploy_marker": "two-workspaces/comp-crm",
-  "id": "937d28bb-e132-4910-bc50-b1c5187745e3"
+  "id": "937d28bb-e132-4910-bc50-b1c5187745e3",
+  "published": true
 }
